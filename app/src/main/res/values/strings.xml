@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">MDC_JC</string>
+    <string name="add_task">Add task</string>
+    <string name="card_btn_buy">Buy</string>
+    <string name="card_btn_skip">Skip</string>
+    <string name="card_title">Black Friday</string>
+    <string name="input_url">Ingrese Url</string>
+    <string name="card_required">Required</string>
+    <string name="password">password</string>
+    <string name="password_enable">Enable password</string>
+
 </resources>
