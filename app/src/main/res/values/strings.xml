@@ -8,5 +8,7 @@
     <string name="card_required">Required</string>
     <string name="password">password</string>
     <string name="password_enable">Enable password</string>
+    <string name="fab">Fab</string>
+    <string name="card_texto_large">Hola amigos bienvenidos a Kotlin con Compose , daremos los primeros pasos</string>
 
 </resources>
